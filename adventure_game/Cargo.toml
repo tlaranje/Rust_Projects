@@ -5,4 +5,3 @@ edition = "2024"
 
 [dependencies]
 device_query = "4.0.1"
-tui = "0.19.0"
