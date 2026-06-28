@@ -1,1 +1,0 @@
-https://hubbtech.com.br/projetos-praticos-para-aprender-rust/

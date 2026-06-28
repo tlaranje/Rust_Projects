@@ -1,7 +1,0 @@
-[package]
-name = "adventure_game"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-device_query = "4.0.1"
